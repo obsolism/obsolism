@@ -4,6 +4,9 @@ Withing this Git repo lies one entire religion, including every sacred text, rul
 
 This README serves to provide a short introduction to the religion and as a directory to guide you through the contents of this repo.
 
+:warning: This religion is **incomplete** and will remain as such until all the core documentation has been written. From that point it will be marked as **beta** for a period of two years, after which it will be marked complete.
+Note that "complete" in this context does not mean it will cease to change, it only reflects that the project is mature enough to be followed seriously.
+
 ## Intent
 
 As a society we cannot seem to leave religion behind, we desperately cling to it and drag its lifeless body with us forward through time. The religion as defined within this repository seeks to be a suitable candidate for
