@@ -22,3 +22,11 @@ All files herein will be in Unicode with the exception of images. Unicode files 
 will exist in only one format. To elaborate, if something is written as JSON it will not also be distributed as YAML, and vice versa. If need be, it is permitted to locally convert between these formats on your own system
 using software you trust, however the resulting converted files do not legally or ethically represent the religion as they may have been tainted. Do not share or partake in shared copies of this information, simply clone it
 yourself. The only official source of information is a clone of this repo that has run `git fetch` and verified as unchanged and up to date.
+
+## Table of Contents
+
+* [About](about.yaml)
+    * This file contains the basic information such as this religion's name,
+      its tenets, current leaders, and other useful information for easy access.
+* [Iconography](icons.md)
+    * Examples and explanations of all the official iconography.
