@@ -1,6 +1,6 @@
-# Religion
+# Obsolism
 
-Withing this Git repo lies one entire religion, including every sacred text, rule, and other relevant documents.
+Within this Git repo lies one entire religion, including every sacred text, rule, and other relevant documents.
 
 This README serves to provide a short introduction to the religion and as a directory to guide you through the contents of this repo.
 
