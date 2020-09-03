@@ -28,6 +28,8 @@ yourself. The only official source of information is a clone of this repo that h
 * [About](about.yaml)
     * This file contains the basic information such as this religion's name,
       its tenets, current leaders, and other useful information for easy access.
+* [Figures](figures.md)
+    * A list of relevant people and characters, both fictional and otherwise.
 * [Iconography](icons.md)
     * Examples and explanations of all the official iconography.
 * [Members](members.csv)
