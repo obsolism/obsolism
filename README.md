@@ -34,3 +34,5 @@ yourself. The only official source of information is a clone of this repo that h
     * Examples and explanations of all the official iconography.
 * [Members](members.csv)
     * A list of all official members, their positions, and join dates.
+* [Morals](morals.yaml)
+    * A list Obsolism's stances on moral dilemnas
