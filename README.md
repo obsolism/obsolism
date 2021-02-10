@@ -43,6 +43,27 @@ have been tainted. Do not share or partake in shared copies of this information,
 simply clone it yourself. The only official source of information is a clone of
 this repo that has run `git fetch` and verified as unchanged and up to date.
 
+## Sources
+
+
+### Primary
+
+The only trusted version of this repository is located at the following address:
+
+```
+git://jakeledoux.com/obsolism
+```
+
+### GitHub
+
+The GitHub [repository](https://github.com/obsolism/obsolism) is an official
+mirror of the primary repo, but should not be trusted as accurate.
+
+### Others
+
+Any other repositories claiming to be official are falsifications and should be
+avoided.
+
 ## Table of Contents
 
 * [About](about.yaml)
