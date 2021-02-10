@@ -31,16 +31,17 @@ a year so that one does not unknowingly adhere to non-current information.
 ## Formats
 
 All files herein will be in Unicode with the exception of images. Unicode files
-will have an extension identifying their syntax just as this file does. Note the
-`.md` referring to the markdown format. Each document will exist in only one
-format. To elaborate, if something is written as JSON it will not also be
-distributed as YAML, and vice versa. If need be, it is permitted to locally
-convert between these formats on your own system using software you trust,
-however the resulting converted files do not legally or ethically represent the
-religion as they may have been tainted. Do not share or partake in shared copies
-of this information, simply clone it yourself. The only official source of 
-information is a clone of this repo that has run `git fetch` and verified as
-unchanged and up to date.
+will have an extension identifying their syntax just as this file does, and will
+conform to an 80 character line limit. No Unicode file intended for reading
+shall break this length restriction. An example of a Unicode file exempt from
+this rule would be SVG images. Each document will exist in only one format. To
+elaborate, if something is written as JSON it will not also be distributed as
+YAML, and vice versa. If need be, it is permitted to locally convert between
+these formats on your own system using software you trust, however the resulting
+converted files do not legally or ethically represent the religion as they may
+have been tainted. Do not share or partake in shared copies of this information,
+simply clone it yourself. The only official source of information is a clone of
+this repo that has run `git fetch` and verified as unchanged and up to date.
 
 ## Table of Contents
 
