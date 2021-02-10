@@ -7,14 +7,6 @@ dates:
     inception: 2020-08-30
     beta: NA
     complete: NA
-positions:
-    - High Priest: Current head of the church.
-    - Elder: Former high priest.
-    - Priest: Community leader and role model.
-    - Member: Officially admitted member.
-leaders:
-    high_priest: Jacob S. Ledoux
-    priests: []
 tenets:
     - >
       Nothing is sacred.
