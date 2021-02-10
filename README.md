@@ -52,7 +52,5 @@ this repo that has run `git fetch` and verified as unchanged and up to date.
     * A list of relevant people and characters, both fictional and otherwise.
 * [Iconography](icons.md)
     * Examples and explanations of all the official iconography.
-* [Members](members.csv)
-    * A list of all official members, their positions, and join dates.
 * [Morals](morals.yaml)
     * A list Obsolism's stances on moral dilemmas
