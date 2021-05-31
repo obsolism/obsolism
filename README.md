@@ -6,11 +6,12 @@ rule, and other relevant documents.
 This README serves to provide a short introduction to the religion and as a
 directory to guide you through the contents of this repo.
 
-:warning: This religion is **incomplete** and will remain as such until all the
-core documentation has been written. From that point it will be marked as
-**beta** for a period of two years, after which it will be marked complete. Note
-that "complete" in this context does not mean it will cease to change, it only
-reflects that the project is mature enough to be followed seriously.
+> :warning: This religion will be marked **incomplete** until all the core
+  documentation has been written. From that point it will be marked as **beta**
+  for a period of two years, after which it will be marked **complete**. Note
+  that "complete" in this context does not mean it will cease to change, it only
+  reflects that the project is mature enough to be followed seriously. You can
+  view the current status in the ["About" page](about.yaml).
 
 ## Intent
 
