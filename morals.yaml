@@ -6,7 +6,8 @@ options:
     - Bad
     - Unacceptable
 modifiers:
-    - C: With consent from all concerned parties
+    - C: With consent from all concerned parties (Children are incapable of
+      consenting and thus fail this modifier)
     - M: Once matured
     - T: Once given considerable thought
     - X: In moderation
