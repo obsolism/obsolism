@@ -74,4 +74,4 @@ avoided.
 * [Iconography](icons.md)
     * Examples and explanations of all the official iconography.
 * [Morals](morals.yaml)
-    * A list Obsolism's stances on moral dilemmas
+    * A list of Obsolism's stances on moral dilemmas.
