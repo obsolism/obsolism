@@ -75,3 +75,5 @@ avoided.
     * Examples and explanations of all the official iconography.
 * [Morals](morals.yaml)
     * A list of Obsolism's stances on moral dilemmas.
+* [Rituals](rituals.yaml)
+    * A list of Obsolism's rituals.
