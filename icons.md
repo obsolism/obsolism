@@ -9,7 +9,7 @@ equally valid.
 <img alt="Obsolist Cross" src="images/obsolist_cross.svg" width="200"/>
 
 The Obsolist Cross doubles as both an hourglass and two opposing arrows.
-Representing the uncompromising march of time and the stagnant battle of
+It represents both the uncompromising march of time and the stagnant battle of
 progress and regression.
 
 ## The Inverted Cross
@@ -29,6 +29,6 @@ The Inverted Pentagram is synonymous with most forms of Satanism and the occult.
 It's less directly offensive than the Inverted Cross and has been depicted
 numerous times in popular media and culture. While the popularity and beauty of
 this symbol may tempt you into using it to represent Obsolism, this is forbidden
-as the Church has its own icon, the Obsolist Cross. Alternatively, it *is*
-encouraged to use this where the symbol is not the focus or primary element of
-an art piece or document.
+as the Church has its own icon, the [Obsolist Cross](#The-Obsolist-Cross).
+Alternatively, it *is* encouraged to use this symbol alongside the Obsolist
+Cross or where it is not intended to directly represent the Church.
