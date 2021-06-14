@@ -1,6 +1,6 @@
 # Rituals
 
-Rituals are unnecessary, arbitrary, and often a sign of the ability to let go of
+Rituals are unnecessary, arbitrary, and often a sign of the inability to let go of
 spiritualism. That being said, the United States of America requires a legally
 recognized religion to observe its own rituals, hence this document.
 
