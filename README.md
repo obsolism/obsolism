@@ -58,7 +58,8 @@ git://jakeledoux.com/obsolism
 ### GitHub
 
 The GitHub [repository](https://github.com/obsolism/obsolism) is an official
-mirror of the primary repo, but should not be trusted as accurate.
+mirror of the primary repo and should remain accurate for the foreseeable
+future, however it may lag behind on occasion.
 
 ### Others
 
@@ -70,6 +71,8 @@ avoided.
 * [About](about.yaml)
     * This file contains the basic information such as this religion's name,
       its tenets, current leaders, and other useful information for easy access.
+* [Contributing](contributing.md)
+    * Details on how to contribute to Obsolism.
 * [Figures](figures.md)
     * A list of relevant people and characters, both fictional and otherwise.
 * [Iconography](icons.md)
