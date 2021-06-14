@@ -1,7 +1,7 @@
 # Iconography
 
 In this document you will find a list of all approved iconography, as well as
-examples. The examples provided are only merely on incarnation of the
+examples. The images provided are only merely a single interpretation of the
 represented icon, any sufficiently accurate illustration or other rendering is
 equally valid.
 
