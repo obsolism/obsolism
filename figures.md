@@ -1,6 +1,6 @@
 # Obsolist Figures
 
-Some people and characters that are relevant to the practice of Obsolism.
+A list of figures that are relevant to the practice and mythology of Obsolism.
 
 ## The Tyrant *(Fictional)*
 Other names:

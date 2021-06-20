@@ -1,44 +1,45 @@
-options:
-    - Encouraged
-    - Good
-    - Acceptable
-    - Discouraged
-    - Bad
-    - Unacceptable
-modifiers:
-    - C: With consent from all concerned parties (Children are incapable of
-      consenting and thus fail this modifier)
-    - M: Once matured
-    - T: Once given considerable thought
-    - X: In moderation
+definitions:
+  stances:
+      - Encouraged
+      - Good
+      - Acceptable
+      - Discouraged
+      - Bad
+      - Unacceptable
+  modifiers:
+      C: "With consent from all concerned parties (Children are incapable of
+      consenting and thus fail this modifier)"
+      M: Once matured
+      T: Once given considerable thought
+      X: In moderation
 stances:
-    - extramarital affairs: Good [C]
-    - gambling: Discouraged [M]
-    - homosexuality: Encouraged
-    - abortion: Acceptable [T]
-    - premarital sex: Good [M]
-    - alcohol: Good [MX]
-    - divorce: Good
-    - contraception: Encouraged
-    - euthanasia: Acceptable [T]
-    - stem cell research: Encouraged
-    - pornography: Good [MX]
-    - torture: Unacceptable
-    - war: Bad
-    - death penalty: Unacceptable
-    - vegetarianism: Encouraged
-    - censorship: Bad
-    - transgenderism: Encouraged [CMT]
-    - nudity in media: Encouraged
-    - animal fur clothing: Discouraged
-    - cloning animals: Encouraged
-    - cloning humans: Encouraged [C]
-    - slavery: Unacceptable
-    - bestiality: Unacceptable
-    - pedophilia: Unacceptable
-    - autonomy and rights of an artificial intelligence: Encouraged
-    - polygamy: Good [CM]
-    - cannibalism: Discouraged [CX]
-    - materialism: Good [X]
-    - superstition: Discouraged
-    - idolatry: Discouraged
+    extramarital affairs: Good [C]
+    gambling: Discouraged [M]
+    homosexuality: Encouraged
+    abortion: Acceptable [T]
+    premarital sex: Good [M]
+    alcohol: Good [MX]
+    divorce: Good
+    contraception: Encouraged
+    euthanasia: Acceptable [T]
+    stem cell research: Encouraged
+    pornography: Good [MX]
+    torture: Unacceptable
+    war: Bad
+    death penalty: Unacceptable
+    vegetarianism: Encouraged
+    censorship: Bad
+    transgenderism: Encouraged [CMT]
+    nudity in media: Encouraged
+    animal fur clothing: Discouraged
+    cloning animals: Encouraged
+    cloning humans: Encouraged [C]
+    slavery: Unacceptable
+    bestiality: Unacceptable
+    pedophilia: Unacceptable
+    autonomy and rights of an artificial intelligence: Encouraged
+    polygamy: Good [CM]
+    cannibalism: Discouraged [CX]
+    materialism: Good [X]
+    superstition: Discouraged
+    idolatry: Discouraged

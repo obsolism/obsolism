@@ -1,0 +1,50 @@
+{
+  "definitions": {
+    "modifiers": {
+      "C": "With consent from all concerned parties (Children are incapable of consenting and thus fail this modifier)",
+      "M": "Once matured",
+      "T": "Once given considerable thought",
+      "X": "In moderation"
+    },
+    "stances": [
+      "Encouraged",
+      "Good",
+      "Acceptable",
+      "Discouraged",
+      "Bad",
+      "Unacceptable"
+    ]
+  },
+  "stances": {
+    "abortion": "Acceptable [T]",
+    "alcohol": "Good [MX]",
+    "animal fur clothing": "Discouraged",
+    "autonomy and rights of an artificial intelligence": "Encouraged",
+    "bestiality": "Unacceptable",
+    "cannibalism": "Discouraged [CX]",
+    "censorship": "Bad",
+    "cloning animals": "Encouraged",
+    "cloning humans": "Encouraged [C]",
+    "contraception": "Encouraged",
+    "death penalty": "Unacceptable",
+    "divorce": "Good",
+    "euthanasia": "Acceptable [T]",
+    "extramarital affairs": "Good [C]",
+    "gambling": "Discouraged [M]",
+    "homosexuality": "Encouraged",
+    "idolatry": "Discouraged",
+    "materialism": "Good [X]",
+    "nudity in media": "Encouraged",
+    "pedophilia": "Unacceptable",
+    "polygamy": "Good [CM]",
+    "pornography": "Good [MX]",
+    "premarital sex": "Good [M]",
+    "slavery": "Unacceptable",
+    "stem cell research": "Encouraged",
+    "superstition": "Discouraged",
+    "torture": "Unacceptable",
+    "transgenderism": "Encouraged [CMT]",
+    "vegetarianism": "Encouraged",
+    "war": "Bad"
+  }
+}

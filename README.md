@@ -11,7 +11,7 @@ directory to guide you through the contents of this repo.
   for a period of two years, after which it will be marked **complete**. Note
   that "complete" in this context does not mean it will cease to change, it only
   reflects that the project is mature enough to be followed seriously. You can
-  view the current status in the ["About" page](about.yaml).
+  view the current status in [this document](about.json).
 
 ## Intent
 
@@ -49,7 +49,7 @@ this repo that has run `git fetch` and verified as unchanged and up to date.
 
 ### Primary
 
-The only trusted version of this repository is located at the following address:
+The only trusted repository is located at the following address:
 
 ```
 git://jakeledoux.com/obsolism
@@ -68,16 +68,20 @@ avoided.
 
 ## Table of Contents
 
-* [About](about.yaml)
+* [About](about.json)
     * This file contains the basic information such as this religion's name,
       its tenets, current leaders, and other useful information for easy access.
 * [Contributing](contributing.md)
     * Details on how to contribute to Obsolism.
 * [Figures](figures.md)
     * A list of relevant people and characters, both fictional and otherwise.
+* [Hierarchy](hierarchy.md)
+    * The statement and definition of the High Council.
 * [Iconography](icons.md)
     * Examples and explanations of all the official iconography.
-* [Morals](morals.yaml)
+* [Members](members.json)
+    * A list of the current staff of the High Council.
+* [Morals](morals.json)
     * A list of Obsolism's stances on moral dilemmas.
 * [Rituals](rituals.md)
     * A list of Obsolism's rituals.
